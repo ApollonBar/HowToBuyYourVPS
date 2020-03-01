@@ -20,6 +20,7 @@
 
 不佳，有丢包现象
 
+![image](https://github.com/ligl0702/HowToBuyYourVPS/blob/master/gigs.png)
 
 
 :heart:服务器测速代码脚本：来自波仔
