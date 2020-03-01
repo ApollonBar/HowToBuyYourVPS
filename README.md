@@ -9,7 +9,8 @@
 
 :heart:测速节点CN2GIA来自80m
 和pccw香港来自hostkvm：http://bit.ly/39dgo8Y 
-注意香港pccw这个未必适合电信用户，视频测试是在北京的联通环境下测试的
+
+:heart:注意香港pccw这个未必适合电信用户，视频测试是在北京的联通环境下测试的，电信用户还是用CN2GIA更香
 
 :heart:服务器测速代码脚本：来自波仔
 https://www.v2rayssr.com/vpsspeed.html
