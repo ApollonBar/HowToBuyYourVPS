@@ -7,10 +7,18 @@
 
 :heart:路由跟踪软件Best Trace：https://cdn.ipip.net/17mon/besttrace.exe
 
-:heart:测速节点CN2GIA来自80m
+:heart:测速节点CN2GIA来自80m 估计没货
 和pccw香港来自hostkvm：http://bit.ly/39dgo8Y 
 
 :heart:注意香港pccw这个未必适合电信用户，视频测试是在北京的联通环境下测试的，电信用户还是用CN2GIA更香
+
+:heart:最近的视频测速采用的节点来自GigsGigsCloud公司的CLOUDLET K1+ MEGA vps机型 http://bit.ly/2PANZS6 
+
+（1000M带宽120G流量香港原生ip支持Netflix,但是10美元真的不便宜）测试路由发现走了香港hkbn
+
+测试条件：软路由3865U ，北京联通300M 白天youtube 4k能跑到 21w多 应该是针对中国三网优化的
+
+
 
 :heart:服务器测速代码脚本：来自波仔
 https://www.v2rayssr.com/vpsspeed.html
