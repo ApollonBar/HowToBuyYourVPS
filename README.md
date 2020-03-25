@@ -8,7 +8,7 @@
 :heart:路由跟踪软件Best Trace：https://cdn.ipip.net/17mon/besttrace.exe
 
 :heart:测速节点CN2GIA来自80m 估计没货
-和pccw香港来自hostkvm：http://bit.ly/39dgo8Y 
+和香港来自hostkvm：http://bit.ly/39dgo8Y (非推广 注意并非香港原生ip 慎重)
 
 :heart:注意香港pccw这个未必适合电信用户，视频测试是在北京的联通环境下测试的，电信用户还是用CN2GIA更香
 
