@@ -47,4 +47,4 @@ https://www.v2rayssr.com/trojan-1.html
 
 ![image](https://github.com/ligl0702/HowToBuyYourVPS/blob/master/howtobugvps.jpg)
 
-其他设备清单：路由器 开发板 相机等 https://afdian.net/p/1073670c669311ea8bfd52540025c377
+❤️其他设备和服务清单：路由器 电视盒子 开发板 等 https://afdian.net/p/1073670c669311ea8bfd52540025c377
