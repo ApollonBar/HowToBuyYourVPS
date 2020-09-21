@@ -47,4 +47,8 @@ https://www.v2rayssr.com/trojan-1.html
 
 ![image](https://github.com/ligl0702/HowToBuyYourVPS/blob/master/howtobugvps.jpg)
 
-❤️其他设备和服务清单：路由器 电视盒子 开发板 等 https://afdian.net/p/1073670c669311ea8bfd52540025c377
+❤️最后你们问的我用什么机场 就这俩 自己看吧
+在这里说一下，一个是dler 另外一个是速鹰
+https://bit.ly/3gIf3Ka
+https://bit.ly/2OzmaJg
+具体你们自己看吧。里面有说明。
